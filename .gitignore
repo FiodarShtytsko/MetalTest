@@ -1,0 +1,17 @@
+# Xcode
+.DS_Store
+xcuserdata/
+
+# Собранные файлы
+build/
+DerivedData/
+*.o
+*.xcodeproj/
+*.xcworkspace/
+
+# Основные системные файлы
+.PDSandbox/
+*.swp
+*~
+.project
+*.swp
